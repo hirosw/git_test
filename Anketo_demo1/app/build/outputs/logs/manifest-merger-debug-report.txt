@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\1fa78e974c83ae30671b35ec4f84bac4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\32432c4a9577504595b0d627ea0e941e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\22ba5665cc980cf2c8eb9dc5a5cdd63c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\de222d3db6e36ccd61baf324c27311d4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\678ab388a354f6685a9ee34518550d50\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\17e94835356a8ff28991756fd1874576\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\6b66cce53f27e9a5c38ba774325e11b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\d1178b5d7ebe6f2fc85ce1a666e9295c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\c47a16b620975d77cf72d3d591f909f8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\4436eceeb48535bf0065e35c10b05b11\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\80bb889a13f7b02a45d9716bef6b24d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\ad22a60ba8644fe9dac6ecfdbaf91938\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\171e29dce75ad5fda5b6a36399751136\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\406b7fa5b5e008b0080f53202caf335b\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\c9320c6a6b1964f119cf6f58884bc8c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\525f105d49f34ba8769180abfb7dbefe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\ba934916ca2528027585fbf9438c6b91\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\b2fe9c2cc177d27474640c596cd94db0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\82e8c5c53ad2f3f1cbabc4fbf9702446\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\eead38c0f8a9e0ff003fb1d488b1ca23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\df70e8b8b87979a52417be1294b6a11d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\32432c4a9577504595b0d627ea0e941e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\32432c4a9577504595b0d627ea0e941e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\ad22a60ba8644fe9dac6ecfdbaf91938\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\ad22a60ba8644fe9dac6ecfdbaf91938\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\406b7fa5b5e008b0080f53202caf335b\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\406b7fa5b5e008b0080f53202caf335b\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\ad22a60ba8644fe9dac6ecfdbaf91938\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.anketo_demo1.HomeActivity
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:12:9-59
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:12:19-47
+activity#com.example.anketo_demo1.LoginActivity
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:13:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.anketo_demo1.AnketoResultActivity
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:20:9-67
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:20:19-55
+activity#com.example.anketo_demo1.AnketoDetailsActivity
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:21:19-56
+activity#com.example.anketo_demo1.AnketoIchiranActivity
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:22:9-68
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:22:19-56
+activity#com.example.anketo_demo1.AnketoTokoKakuninActivity
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:23:9-72
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:23:19-60
+activity#com.example.anketo_demo1.AnketoTokoActivity
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:24:9-65
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:24:19-53
+activity#com.example.anketo_demo1.ShinkitorokuActivity
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:25:9-67
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:25:19-55
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:28:5-83
+	android:name
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml:28:22-64
+uses-sdk
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\1fa78e974c83ae30671b35ec4f84bac4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\1fa78e974c83ae30671b35ec4f84bac4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\32432c4a9577504595b0d627ea0e941e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\32432c4a9577504595b0d627ea0e941e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\22ba5665cc980cf2c8eb9dc5a5cdd63c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\22ba5665cc980cf2c8eb9dc5a5cdd63c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\de222d3db6e36ccd61baf324c27311d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\de222d3db6e36ccd61baf324c27311d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\678ab388a354f6685a9ee34518550d50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\678ab388a354f6685a9ee34518550d50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\17e94835356a8ff28991756fd1874576\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\17e94835356a8ff28991756fd1874576\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\6b66cce53f27e9a5c38ba774325e11b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\6b66cce53f27e9a5c38ba774325e11b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\d1178b5d7ebe6f2fc85ce1a666e9295c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\d1178b5d7ebe6f2fc85ce1a666e9295c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\c47a16b620975d77cf72d3d591f909f8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\c47a16b620975d77cf72d3d591f909f8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\4436eceeb48535bf0065e35c10b05b11\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\4436eceeb48535bf0065e35c10b05b11\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\80bb889a13f7b02a45d9716bef6b24d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\80bb889a13f7b02a45d9716bef6b24d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\ad22a60ba8644fe9dac6ecfdbaf91938\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\ad22a60ba8644fe9dac6ecfdbaf91938\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\171e29dce75ad5fda5b6a36399751136\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\171e29dce75ad5fda5b6a36399751136\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\406b7fa5b5e008b0080f53202caf335b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\406b7fa5b5e008b0080f53202caf335b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\c9320c6a6b1964f119cf6f58884bc8c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\c9320c6a6b1964f119cf6f58884bc8c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\525f105d49f34ba8769180abfb7dbefe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\525f105d49f34ba8769180abfb7dbefe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\ba934916ca2528027585fbf9438c6b91\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\ba934916ca2528027585fbf9438c6b91\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\b2fe9c2cc177d27474640c596cd94db0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\b2fe9c2cc177d27474640c596cd94db0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\82e8c5c53ad2f3f1cbabc4fbf9702446\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\82e8c5c53ad2f3f1cbabc4fbf9702446\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\eead38c0f8a9e0ff003fb1d488b1ca23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\eead38c0f8a9e0ff003fb1d488b1ca23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\df70e8b8b87979a52417be1294b6a11d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hiroy\.gradle\caches\transforms-2\files-2.1\df70e8b8b87979a52417be1294b6a11d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hiroy\sample\chap08\IntentBasic\Anketo_demo1\app\src\main\AndroidManifest.xml
